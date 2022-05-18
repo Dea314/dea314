@@ -12,10 +12,10 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 ## You can reach me on
 <div align="center">
 <a href="https://www.linkedin.com/in/dea-fabris/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"  />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-top: 5px;"  />
 </a>  
 <a href="https://github.com/Dea314" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-top: 5px;" />
 </a>
 </div>
 
@@ -51,13 +51,14 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 ### Databases
 <div align="center">  
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" />&nbsp;&nbsp;&nbsp;   
-<img src="https://accentsconagua.com/img/images_3/an-introduction-to-mongoose-for-mongodb-and-nodejs.jpg" alt="Mongoose" height="70" />&nbsp;&nbsp;&nbsp; 
-<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="70" />&nbsp;&nbsp;&nbsp;   
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" />&nbsp;&nbsp;&nbsp; 
+<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="70" />&nbsp;&nbsp;&nbsp;   
+  <img src="https://accentsconagua.com/img/images_3/an-introduction-to-mongoose-for-mongodb-and-nodejs.jpg" alt="Mongoose" height="70" />&nbsp;&nbsp;&nbsp; 
 <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="70" />  
 </div>
 
 <br/> 
+
 
 ### Additional tools
 <div align="center">  
@@ -71,6 +72,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="70" />&nbsp;&nbsp;&nbsp;    
 <img src="https://img.icons8.com/color/344/trello.png" alt="Trello" height="70" />&nbsp;&nbsp;&nbsp;  
 </div>
+
 
 <br/>  
 
