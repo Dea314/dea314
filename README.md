@@ -42,8 +42,8 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 
 ### Backend 
 <div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /> &nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="70" /> &nbsp;&nbsp  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /> &nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="70" /> &nbsp;&nbsp  
 </div>
 
 <br/> 
