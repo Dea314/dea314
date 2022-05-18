@@ -1,4 +1,4 @@
-### Hello world 🙋!
+## Hello world 🙋!
 
 
 I'm Danijela, and coding is my new passion. 
@@ -24,7 +24,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 ## I’m Working with: 
 <br/>  
 
-## Frontend
+### Frontend
 <div align="center">  
 <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />&nbsp;&nbsp;&nbsp;   
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />&nbsp;&nbsp;&nbsp;  
@@ -40,7 +40,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 
 <br/> 
 
-## Backend 
+### Backend 
 <div align="center">  
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /> &nbsp;&nbsp;
 <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="70" /> &nbsp;&nbsp  
@@ -48,7 +48,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 
 <br/> 
 
-## Databases
+### Databases
 <div align="center">  
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" />&nbsp;&nbsp;&nbsp;   
 <img src="https://accentsconagua.com/img/images_3/an-introduction-to-mongoose-for-mongodb-and-nodejs.jpg" alt="Mongoose" height="70" />&nbsp;&nbsp;&nbsp; 
@@ -59,7 +59,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 
 <br/> 
 
-## Additional tools
+### Additional tools
 <div align="center">  
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" />&nbsp;&nbsp;&nbsp;  
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />&nbsp;&nbsp;&nbsp;    
@@ -72,12 +72,11 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <img src="https://img.icons8.com/color/344/trello.png" alt="Trello" height="70" />&nbsp;&nbsp;&nbsp;  
 </div>
 
-
 <br/>  
-
+<span>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dea314&count_private=true&show_icons=true&theme=tokyonight&showicons=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dea314&langs_count=8&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</span>
 
 
