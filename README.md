@@ -75,10 +75,11 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 
 <br/>  
 
-<div align="center">
-  [![Dea's github stats](https://github-readme-stats.vercel.app/api?username=Dea314&show_icons=true&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dea314&count_private=true&show_icons=true&theme=tokyonight&showicons=true)]()
+
+  [![Dea314's github stats](https://github-readme-stats.vercel.app/api?username=Dea314&show_icons=true&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dea314&langs_count=8&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+
 
