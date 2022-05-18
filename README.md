@@ -1,7 +1,5 @@
 ### Hello world 🙋!
 
-<!--
-**Dea314/dea314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Danijela, and coding is my new passion. 
 
