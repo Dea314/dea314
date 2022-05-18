@@ -26,16 +26,16 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 
 ### Frontend
 <div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />&nbsp;&nbsp;&nbsp;   
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />&nbsp;&nbsp;&nbsp;  
-<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" />&nbsp;&nbsp;&nbsp; 
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-UI" height="50" />&nbsp;&nbsp;&nbsp;   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />&nbsp;&nbsp;&nbsp;   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />&nbsp;&nbsp;&nbsp;  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" />&nbsp;&nbsp;&nbsp; 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-UI" height="70" />&nbsp;&nbsp;&nbsp;   
 <br/>
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />&nbsp;&nbsp;&nbsp; 
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />&nbsp;&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="70" />&nbsp;&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />&nbsp;&nbsp;&nbsp; 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="70" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" />&nbsp;&nbsp;&nbsp;
 </div>
 
 <br/> 
@@ -62,7 +62,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 ### Additional tools
 <div align="center">  
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" />&nbsp;&nbsp;&nbsp;  
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />&nbsp;&nbsp;&nbsp;    
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" />&nbsp;&nbsp;&nbsp;    
 <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="70" />&nbsp;&nbsp;&nbsp;   
 <img src="https://img.icons8.com/plasticine/344/canva.png" alt="Canva" height="70" />&nbsp;&nbsp;&nbsp;  
 <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="70" />&nbsp;&nbsp;&nbsp; 
@@ -73,10 +73,10 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 </div>
 
 <br/>  
-<div>
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dea314&count_private=true&show_icons=true&theme=tokyonight&showicons=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dea314&langs_count=8&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
