@@ -1,6 +1,6 @@
 ## Hello world 🙋!
 
-
+<br/>
 I'm Danijela, and coding is my new passion. 
 
 My whole life, I've been somehow connected with technologies and creativity. Since I believe you never should stop learning, I learned new skills on Udemy and Codeacademy platforms and found WBS Coding School to learn even more. 
@@ -64,6 +64,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 
 
 ### Additional tools
+<br/>
 <div align="center">  
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" />&nbsp;&nbsp;&nbsp;  
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" />&nbsp;&nbsp;&nbsp;    
@@ -75,7 +76,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="70" />&nbsp;&nbsp;&nbsp;    
 <img src="https://img.icons8.com/color/344/trello.png" alt="Trello" height="70" />&nbsp;&nbsp;&nbsp;  
 </div>
-
+<br/>
 
 <br/>  
 
