@@ -10,6 +10,8 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 
 
 ## You can reach me on
+<br/>  
+<br/>  
 <div align="center">
 <a href="https://www.linkedin.com/in/dea-fabris/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-top: 5px;"  />
