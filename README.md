@@ -26,7 +26,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 
 ### Frontend
 <div align="center">  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />&nbsp;&nbsp;&nbsp;   
+<img style="margin: 25px", "margin-bottom: 50px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />&nbsp;&nbsp;&nbsp;   
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />&nbsp;&nbsp;&nbsp;  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" />&nbsp;&nbsp;&nbsp; 
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />&nbsp;&nbsp;&nbsp;
