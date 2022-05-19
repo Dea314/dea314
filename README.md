@@ -2,7 +2,7 @@
 
 <br/>
 I'm Danijela, and coding is my new passion. 
-
+<br/>  
 My whole life, I've been somehow connected with technologies and creativity. Since I believe you never should stop learning, I learned new skills on Udemy and Codeacademy platforms and found WBS Coding School to learn even more. 
 
 
@@ -13,7 +13,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <br/>  
 <br/>  
 <div align="center">
-<a href="https://www.linkedin.com/in/dea-fabris/" target="_blank">
+<a href="https://www.linkedin.com/in/dea-fabris/" target="_blank" style="margin-right: 25px">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-top: 5px;"  />
 </a>  
 <a href="https://github.com/Dea314" target="_blank">
