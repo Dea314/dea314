@@ -27,15 +27,15 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 ### Frontend
 <div align="center">  
 <img style="margin: 25px", "margin-bottom: 50px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />&nbsp;&nbsp;&nbsp;   
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />&nbsp;&nbsp;&nbsp;  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" />&nbsp;&nbsp;&nbsp; 
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 25px", "margin-bottom: 50px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />&nbsp;&nbsp;&nbsp;  
+<img style="margin: 25px", "margin-bottom: 50px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" />&nbsp;&nbsp;&nbsp; 
+<img style="margin: 25px", "margin-bottom: 50px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />&nbsp;&nbsp;&nbsp;
 <img style="margin: 25px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-UI" height="70" />&nbsp;&nbsp;&nbsp;   
 <br/>
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />&nbsp;&nbsp;&nbsp; 
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />&nbsp;&nbsp;&nbsp;
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="70" />&nbsp;&nbsp;&nbsp;
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 25px", "margin-bottom: 50px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />&nbsp;&nbsp;&nbsp; 
+<img style="margin: 25px", "margin-bottom: 50px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 25px", "margin-bottom: 50px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="70" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 25px", "margin-bottom: 50px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" />&nbsp;&nbsp;&nbsp;
 </div>
 
 <br/> 
