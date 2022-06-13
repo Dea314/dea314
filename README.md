@@ -82,7 +82,9 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dea314&count_private=true&show_icons=true&theme=discord_old_blurple&showicons=true)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dea314&langs_count=8&theme=discord_old_blurple&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dea314&theme=onedark&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dea314&langs_count=8&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
