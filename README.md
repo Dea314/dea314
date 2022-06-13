@@ -14,12 +14,10 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <br/>  
 <br/>  
 <div align="center">
-<a href="https://www.linkedin.com/in/dea-fabris/" target="_blank" >
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />&nbsp;&nbsp;&nbsp;
-</a>  
-<a href="https://github.com/Dea314" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
+
+<a href="https://www.linkedin.com/in/dea-fabris/" rel="linkedin">![Foo](https://firebasestorage.googleapis.com/v0/b/dea-all.appspot.com/o/qrcode%20(2).png?alt=media&token=8e89bbe7-2872-4b49-89fd-cfa3d2b8e05f)</a>  
+  
+ 
 </div>
 
 <br/>  
