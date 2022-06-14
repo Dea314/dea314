@@ -15,7 +15,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dea-fabris/" rel="linkedin" target="_blank">![Foo](https://firebasestorage.googleapis.com/v0/b/dea-all.appspot.com/o/qrcode%20(2).png?alt=media&token=8e89bbe7-2872-4b49-89fd-cfa3d2b8e05f)</a>  
+<a href="https://www.linkedin.com/in/dea-fabris/" target="_blank">![Foo](https://firebasestorage.googleapis.com/v0/b/dea-all.appspot.com/o/qrcode%20(2).png?alt=media&token=8e89bbe7-2872-4b49-89fd-cfa3d2b8e05f)</a>  
   
  
 </div>
