@@ -56,7 +56,8 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" />&nbsp;&nbsp;&nbsp;   
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" />&nbsp;&nbsp;&nbsp; 
 <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="70" />&nbsp;&nbsp;&nbsp;   
-  <img src="https://accentsconagua.com/img/images_3/an-introduction-to-mongoose-for-mongodb-and-nodejs.jpg" alt="Mongoose" height="70" />&nbsp;&nbsp;&nbsp; 
+  <img src="https://accentsconagua.com/img/images_3/an-introduction-to-mongoose-for-mongodb-and-nodejs.jpg" alt="Mongoose" height="70" />&nbsp;&nbsp;
+  
 <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="70" />  
 </div>
 
