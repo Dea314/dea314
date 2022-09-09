@@ -41,7 +41,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" />&nbsp;&nbsp;&nbsp;
 </div>
 
-<br/> 
+ 
 
 ### Backend 
 <div align="center">  
