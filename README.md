@@ -36,9 +36,10 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <br/>
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />&nbsp;&nbsp;&nbsp; 
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="70" />&nbsp;&nbsp;&nbsp; 
 <img style="margin: 25px" src="https://miro.medium.com/max/400/1*S4ci37YALh0ADjMBcVWGTA.png" alt="NextJS" height="70" />&nbsp;&nbsp;&nbsp;  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="70" />&nbsp;&nbsp;&nbsp;
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" />&nbsp;&nbsp;&nbsp;
+
 </div>
 
  <br/> 
