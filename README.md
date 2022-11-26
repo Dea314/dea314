@@ -1,4 +1,4 @@
-## Hello world 🙋!
+## Hi there 🙋!
 <br/>
 
 I'm Danijela, and coding is my new passion. 
@@ -83,12 +83,14 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <br/>
 
 <br/>  
-
+<div align="center">
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dea314&count_private=true&show_icons=true&theme=discord_old_blurple&showicons=true)]()
-
+  </div>
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dea314&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+  </div>
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dea314&langs_count=8&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 
