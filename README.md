@@ -84,7 +84,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 
 <br/>  
 <div align="center">
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dea314&count_private=true&show_icons=true&theme=discord_old_blurple&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dea314&count_private=true&show_icons=true&theme=discord_old_blurple&showicons=true)]
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dea314&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
