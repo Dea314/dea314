@@ -52,8 +52,8 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 ### Backend 
 <div align="center">  
 
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /> &nbsp;&nbsp;
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="70" /> &nbsp;&nbsp  
+<img style="margin: 35px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /> &nbsp;&nbsp;
+<img style="margin: 35px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="70" /> &nbsp;&nbsp;  
 </div>
 
 <br/> 
@@ -63,9 +63,9 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" />&nbsp;&nbsp;&nbsp;   
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" />&nbsp;&nbsp;&nbsp; 
 <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="70" />&nbsp;&nbsp;&nbsp;   
-  <img src="https://accentsconagua.com/img/images_3/an-introduction-to-mongoose-for-mongodb-and-nodejs.jpg" alt="Mongoose" height="70" />&nbsp;
-  
-<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="70" />  
+<img src="https://accentsconagua.com/img/images_3/an-introduction-to-mongoose-for-mongodb-and-nodejs.jpg" alt="Mongoose" height="70" />&nbsp;&nbsp;&nbsp;
+<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="70" />  &nbsp;&nbsp;&nbsp;
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" />&nbsp;&nbsp;&nbsp;
 </div>
 
 <br/> 
@@ -77,15 +77,14 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" />&nbsp;&nbsp;&nbsp;  
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" />&nbsp;&nbsp;&nbsp;   
 <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="70" />&nbsp;&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" />&nbsp;&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="70" />&nbsp;&nbsp;&nbsp;   
-<img src="https://img.icons8.com/plasticine/344/canva.png" alt="Canva" height="70" />&nbsp;&nbsp;&nbsp;  
+<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="65" />&nbsp;&nbsp;&nbsp;   
+<img src="https://img.icons8.com/plasticine/344/canva.png" alt="Canva" height="80" />&nbsp;&nbsp;&nbsp;  
+<img src="https://img.icons8.com/color/344/trello.png" alt="Trello" height="80" />&nbsp;&nbsp;&nbsp;  
 <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="70" />&nbsp;&nbsp;&nbsp; 
 <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="70" />&nbsp;&nbsp;&nbsp;  
 <img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="70" />&nbsp;&nbsp;&nbsp;  
 <img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="70" />&nbsp;&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="70" />&nbsp;&nbsp;&nbsp;    
-<img src="https://img.icons8.com/color/344/trello.png" alt="Trello" height="70" />&nbsp;&nbsp;&nbsp;  
+  
 </div>
 <br/>
 <div align="center"> 
