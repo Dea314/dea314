@@ -83,8 +83,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="70" />&nbsp;&nbsp;&nbsp; 
 <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="70" />&nbsp;&nbsp;&nbsp;  
 <img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="70" />&nbsp;&nbsp;&nbsp;  
-<img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="70" />&nbsp;&nbsp;&nbsp;
-  
+<img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="70" />&nbsp;&nbsp;&nbsp;  
 </div>
 <br/>
 <div align="center"> 
