@@ -79,6 +79,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="70" />&nbsp;&nbsp;&nbsp;
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="65" />&nbsp;&nbsp;&nbsp;   
 <img style="margin: 25px" src="https://img.icons8.com/plasticine/344/canva.png" alt="Canva" height="80" />&nbsp;&nbsp;&nbsp;  
+  <br/>  
 <img style="margin: 25px" src="https://img.icons8.com/color/344/trello.png" alt="Trello" height="80" />&nbsp;&nbsp;&nbsp;  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="70" />&nbsp;&nbsp;&nbsp; 
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="70" />&nbsp;&nbsp;&nbsp;  
