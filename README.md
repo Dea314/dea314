@@ -6,7 +6,6 @@ I'm Danijela, and coding is my new passion.
 
 My whole life, I've been somehow connected with technologies and creativity. Since I believe you never should stop learning, I learned new skills on Udemy and Codeacademy platforms and found WBS Coding School to learn even more. 
 
-🌱 I’m currently learning PHP, Wordpress and GOlang
 
 [![@dea314's Holopin board](https://holopin.io/api/user/board?user=dea314)](https://holopin.io/@dea314)
 
@@ -39,6 +38,7 @@ My whole life, I've been somehow connected with technologies and creativity. Sin
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="70" />&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="70" />&nbsp;&nbsp;&nbsp;  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />&nbsp;&nbsp;&nbsp; 
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />&nbsp;&nbsp;&nbsp;
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="70" />&nbsp;&nbsp;&nbsp; 
