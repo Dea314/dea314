@@ -1,7 +1,7 @@
 ## Hi there 🙋!
 <br/>
 
-I'm Danijela, and coding is my new passion. 
+I'm Dea, and coding is my new passion. 
 
 
 My whole life, I've been somehow connected with technologies and creativity. Since I believe you never should stop learning, I learned new skills on Udemy and Codeacademy platforms and found WBS Coding School to learn even more. 
