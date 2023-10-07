@@ -101,7 +101,7 @@ I've always loved playing with tech and being creative. I never stop learning, a
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dea314&langs_count=8&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake animation](https://github.com/Dea314/Dea314/blob/output/github-contribution-grid-snake2.svg)
+
 
 
 </div>
