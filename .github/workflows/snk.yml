@@ -3,7 +3,7 @@ name: Generate snake game
 
 on:
   schedule: # execute every 12 hours
-    - cron: "0 */6 * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,9 +15,9 @@ jobs:
       - uses: Sutil/snk@master
         id: snake-gif
         with:
-         Dea314: ${{ github.repository_owner }}
+          Dea314: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: 'teal'
+          snake_color: 'blue'
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
@@ -26,3 +26,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
+
