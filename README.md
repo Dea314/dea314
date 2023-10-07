@@ -7,7 +7,10 @@ I'm Dea, and coding is my new passion.
 My whole life, I've been somehow connected with technologies and creativity. Since I believe you never should stop learning, I learned new skills on Udemy and Codeacademy platforms and found WBS Coding School to learn even more. 
 
 
-[![@dea314's Holopin board](https://holopin.io/api/user/board?user=dea314)](https://holopin.io/@dea314)
+
+[![An image of @dea314's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dea314)](https://holopin.io/@dea314)
+
+
 
 
 <br/>  
