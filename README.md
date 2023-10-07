@@ -1,4 +1,4 @@
-## Hi there 🖖!
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=2A29F7&width=435&lines=Hi+there+%F0%9F%96%96!)](https://git.io/typing-svg)
 <br/>
 
 I'm Dea, and coding is my new passion. 
