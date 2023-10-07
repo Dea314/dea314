@@ -1,10 +1,10 @@
-## Hi there 🙋!
+## Hi there 🖖!
 <br/>
 
 I'm Dea, and coding is my new passion. 
 
 
-My whole life, I've been somehow connected with technologies and creativity. Since I believe you never should stop learning, I learned new skills on Udemy and Codeacademy platforms and found WBS Coding School to learn even more. 
+I've always loved playing with tech and being creative. I never stop learning, and I'm a JavaScript enthusiast. I thrive on crafting impactful and scalable web applications, trying to stay at the forefront of the latest trends and technologies. Each day, I'm dedicated to enhancing my skills and evolving into a better version of myself.
 
 
 
