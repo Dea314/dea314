@@ -4,7 +4,7 @@
 I'm Dea, and coding is my new passion. 
 
 
-I've always loved playing with tech and being creative. I never stop learning, and I'm a JavaScript enthusiast. I thrive on crafting impactful and scalable web applications, trying to stay at the forefront of the latest trends and technologies. Each day, I'm dedicated to enhancing my skills and evolving into a better version of myself.
+I've always loved playing with tech and being creative. I never stop learning, and I'm a JavaScript developer with expertise in React, Next, and TypeScript. I thrive on crafting impactful and modern web applications, trying to stay at the forefront of the latest trends and technologies. Every day, I'm committed to refining my skills and evolving.
 
 
 
