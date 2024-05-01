@@ -28,6 +28,7 @@ I've always loved playing with tech and being creative. I never stop learning, a
 
 <br/>  
 <div align="left">  
+<img style="margin: 25px" src="https://camo.githubusercontent.com/3be0b14503313145e28abbbe18162b39c1f5e573e8c5180f908fd98142163199/68747470733a2f2f7777772e77332e6f72672f5741492f636f6e74656e742d696d616765732f7761692d6d656469612d67756964652f626f64792e737667" alt="Accessibility" height="70" />&nbsp;&nbsp;&nbsp;
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />&nbsp;&nbsp;&nbsp;   
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />&nbsp;&nbsp;&nbsp;  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" />&nbsp;&nbsp;&nbsp; 
