@@ -48,6 +48,10 @@ I've always loved playing with tech and being creative. I never stop learning, a
 <img src="https://accentsconagua.com/img/images_3/an-introduction-to-mongoose-for-mongodb-and-nodejs.jpg" alt="Mongoose" height="70" />&nbsp;&nbsp;&nbsp;
 <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="70" />  &nbsp;&nbsp;&nbsp;
 <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="70" /></a>  &nbsp;&nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="70" /></a>  &nbsp;&nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" /></a>  &nbsp;&nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="70" /></a> &nbsp;&nbsp;&nbsp; 
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" />&nbsp;&nbsp;&nbsp;  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" />&nbsp;&nbsp;&nbsp;   
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="70" />&nbsp;&nbsp;&nbsp;
