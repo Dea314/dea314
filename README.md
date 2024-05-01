@@ -3,6 +3,7 @@
 I'm Dea, and coding is my new passion. 
 I've always loved playing with tech and being creative. I never stop learning, and I'm a JavaScript developer with expertise in React, Next, and TypeScript. I thrive on crafting impactful and modern web applications, trying to stay at the forefront of the latest trends and technologies. 
 <br/>
+<br/>
 
 [![An image of @dea314's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dea314)](https://holopin.io/@dea314)
 
@@ -53,7 +54,7 @@ I've always loved playing with tech and being creative. I never stop learning, a
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="70" />&nbsp;&nbsp;&nbsp;  
 </div>
 <br/>
-<div align="center"> 
+
 <br/>  
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dea314&count_private=true&show_icons=true&theme=discord_old_blurple&showicons=true)]()
@@ -63,8 +64,6 @@ I've always loved playing with tech and being creative. I never stop learning, a
  <br/>  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dea314&langs_count=8&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 </div>
