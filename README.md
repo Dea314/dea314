@@ -28,40 +28,40 @@ I've always loved playing with tech and being creative. I never stop learning, a
 
 <br/>  
 <div align="left">  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="90" />&nbsp;&nbsp;&nbsp;   
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="90" />&nbsp;&nbsp;&nbsp;  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="80" />&nbsp;&nbsp;&nbsp; 
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />&nbsp;&nbsp;&nbsp;
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="90" />&nbsp;&nbsp;&nbsp;   
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="90" />&nbsp;&nbsp;&nbsp;
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="90" />&nbsp;&nbsp;&nbsp;  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />&nbsp;&nbsp;&nbsp; 
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />&nbsp;&nbsp;&nbsp;
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="70" />&nbsp;&nbsp;&nbsp; 
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="70" />&nbsp;&nbsp;&nbsp;  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="70" />&nbsp;&nbsp;&nbsp;
-<img style="margin: 35px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /> &nbsp;&nbsp;
-<img style="margin: 35px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="90" /> &nbsp;&nbsp;  
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="90" />&nbsp;&nbsp;&nbsp;   
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="90" />&nbsp;&nbsp;&nbsp; 
-<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="80" />&nbsp;&nbsp;&nbsp;   
-<img src="https://accentsconagua.com/img/images_3/an-introduction-to-mongoose-for-mongodb-and-nodejs.jpg" alt="Mongoose" height="90" />&nbsp;&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="80" />  &nbsp;&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" />&nbsp;&nbsp;&nbsp;
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="70" /></a>  &nbsp;&nbsp;&nbsp;
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="70" /></a>  &nbsp;&nbsp;&nbsp;
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" /></a>  &nbsp;&nbsp;&nbsp;
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="70" /></a> &nbsp;&nbsp;&nbsp; 
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" />&nbsp;&nbsp;&nbsp;  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" />&nbsp;&nbsp;&nbsp;   
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="70" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />&nbsp;&nbsp;&nbsp;   
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />&nbsp;&nbsp;&nbsp;  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" />&nbsp;&nbsp;&nbsp; 
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="70" />&nbsp;&nbsp;&nbsp;   
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="70" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="70" />&nbsp;&nbsp;&nbsp;  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />&nbsp;&nbsp;&nbsp; 
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />&nbsp;&nbsp;&nbsp; 
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />&nbsp;&nbsp;&nbsp;  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 35px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> &nbsp;&nbsp;
+<img style="margin: 35px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="70" /> &nbsp;&nbsp;  
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />&nbsp;&nbsp;&nbsp;   
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />&nbsp;&nbsp;&nbsp; 
+<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />&nbsp;&nbsp;&nbsp;   
+<img src="https://accentsconagua.com/img/images_3/an-introduction-to-mongoose-for-mongodb-and-nodejs.jpg" alt="Mongoose" height="50" />&nbsp;&nbsp;&nbsp;
+<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="70" />  &nbsp;&nbsp;&nbsp;
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />&nbsp;&nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  &nbsp;&nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  &nbsp;&nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  &nbsp;&nbsp;&nbsp;
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a> &nbsp;&nbsp;&nbsp; 
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />&nbsp;&nbsp;&nbsp;  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />&nbsp;&nbsp;&nbsp;   
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />&nbsp;&nbsp;&nbsp;
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="65" />&nbsp;&nbsp;&nbsp;   
-<img style="margin: 25px" src="https://img.icons8.com/plasticine/344/canva.png" alt="Canva" height="80" />&nbsp;&nbsp;&nbsp;  
-<img style="margin: 25px" src="https://img.icons8.com/color/344/trello.png" alt="Trello" height="80" />&nbsp;&nbsp;&nbsp;  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="70" />&nbsp;&nbsp;&nbsp; 
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="70" />&nbsp;&nbsp;&nbsp;  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="70" />&nbsp;&nbsp;&nbsp;  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="70" />&nbsp;&nbsp;&nbsp;  
+<img style="margin: 25px" src="https://img.icons8.com/plasticine/344/canva.png" alt="Canva" height="70" />&nbsp;&nbsp;&nbsp;  
+<img style="margin: 25px" src="https://img.icons8.com/color/344/trello.png" alt="Trello" height="70" />&nbsp;&nbsp;&nbsp;  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />&nbsp;&nbsp;&nbsp; 
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />&nbsp;&nbsp;&nbsp;  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />&nbsp;&nbsp;&nbsp;  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />&nbsp;&nbsp;&nbsp;  
 </div>
 <br/>
 
