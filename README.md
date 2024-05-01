@@ -2,7 +2,10 @@
 <br/>
 I'm Dea, and coding is my new passion. 
 I've always loved playing with tech and being creative. I never stop learning, and I'm a JavaScript developer with expertise in React, Next, and TypeScript. I thrive on crafting impactful and modern web applications, trying to stay at the forefront of the latest trends and technologies. 
+<br/>
+
 [![An image of @dea314's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dea314)](https://holopin.io/@dea314)
+
 <br/>  
 ## You can reach me on
 <br/>  
@@ -14,10 +17,10 @@ I've always loved playing with tech and being creative. I never stop learning, a
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
+<br/>
 ## I’m Working with: 
 <br/>  
-<div align="center">  
+<div align="left">  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />&nbsp;&nbsp;&nbsp;   
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />&nbsp;&nbsp;&nbsp;  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" />&nbsp;&nbsp;&nbsp; 
