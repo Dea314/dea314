@@ -1,16 +1,20 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=2A29F7&width=435&lines=Hi+there+%F0%9F%96%96!)](https://git.io/typing-svg)
 <br/>
+<div align="left">
 I'm Dea, and coding is my new passion. 
 I've always loved playing with tech and being creative. I never stop learning, and I'm a JavaScript developer with expertise in React, Next, and TypeScript. I thrive on crafting impactful and modern web applications, trying to stay at the forefront of the latest trends and technologies. 
+</div>
 <br/>
 <br/>
 
 [![An image of @dea314's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dea314)](https://holopin.io/@dea314)
 
 <br/>  
+
 ## You can reach me on
+
 <br/>  
-<div align="center">
+<div align="left">
 <a href="https://github.com/Dea314" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -19,7 +23,9 @@ I've always loved playing with tech and being creative. I never stop learning, a
 </a>  
 </div>  
 <br/>
-## I’m Working with: 
+
+## My Skill Set
+
 <br/>  
 <div align="left">  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />&nbsp;&nbsp;&nbsp;   
@@ -56,6 +62,7 @@ I've always loved playing with tech and being creative. I never stop learning, a
 <br/>
 
 <br/>  
+<div align="left">  
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dea314&count_private=true&show_icons=true&theme=discord_old_blurple&showicons=true)]()
   <br/>  
