@@ -35,7 +35,7 @@ I've always loved playing with tech and being creative. I never stop learning, a
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="65" />&nbsp;&nbsp;&nbsp;
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="70" />&nbsp;&nbsp;&nbsp;   
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="70" />&nbsp;&nbsp;&nbsp;
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" />&nbsp;&nbsp;&nbsp;  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="60" />&nbsp;&nbsp;&nbsp;  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />&nbsp;&nbsp;&nbsp; 
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />&nbsp;&nbsp;&nbsp;
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />&nbsp;&nbsp;&nbsp; 
