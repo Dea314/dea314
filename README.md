@@ -37,6 +37,7 @@ I've always loved playing with tech and being creative. I never stop learning, a
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS logo" height="70" />&nbsp;&nbsp;&nbsp;
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI logo" height="60" />&nbsp;&nbsp;&nbsp;  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript logo" height="50" />&nbsp;&nbsp;&nbsp; 
+<img style="margin: 25px" src="https://global.discourse-cdn.com/flex035/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="Three.js logo" height="50" />&nbsp;&nbsp;&nbsp;
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React logo" height="50" />&nbsp;&nbsp;&nbsp;
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux logo" height="50" />&nbsp;&nbsp;&nbsp; 
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />&nbsp;&nbsp;&nbsp;  
